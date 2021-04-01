@@ -1,4 +1,4 @@
-[![Subranium's github stats](https://github-readme-stats.vercel.app/api?username=obiorbitalstar&show_icons=true&theme=merko&include_all_commits=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats) <img align="right" width="40%" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" /> <br/>
+[![Subranium's github stats](https://github-readme-stats.vercel.app/api?username=obiorbitalstar&show_icons=true&theme=merko&include_all_commits=true&hide=issues&card_width=5)](https://github.com/anuraghazra/github-readme-stats) <img align="right" width="40%" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" /> <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obiorbitalstar&layout=compact&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 
