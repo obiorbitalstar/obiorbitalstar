@@ -1,68 +1,11 @@
-<!-- Your title -->
-## Hello, I'm Sa'ed!
+![obiorbitalstar' Stats](https://github-readme-stats.vercel.app/api?username=thamudi&show_icons=true&title_color=00c8ff&text_color=f5f5f5&bg_color=1a1c1d&icon_color=00c8ff&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obiorbitalstar&layout=compact&title_color=00c8ff&text_color=f5f5f5&bg_color=1a1c1d&icon_color=00c8ff&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- Your badges
-You can use the website to generate badges: https://shields.io/
--->
-
-
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/obiorbitalstar)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saed-al-khateeb/)
-
-&nbsp;
-
-<!-- Talking about you -->
-**About Me:**
-
-<!--- I’m currently working at __[ASAC-LTUC](https://github.com/LTUC)__. -->
-- I’m currently learning __Djangox__, __React__,
-- I’m looking to collaborate on anything!
-- Ask me about anything, I am happy to help.
-- Fun-Fact: I like reading manga.
-- How to reach me: __alkhatibsaed007@gmail.com__
-
----
-
-**Languages and Tools:**
-
-<p>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <br />
-   <code><img width="15%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/usepanda/usepanda-ar21.svg"></code>
-  <br />
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
-  <br />
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
-  <br />
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
-  <br />
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
-   <br />
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></code>
-  <br />
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-
-  <br />
-  <code><img width="15%" height="75px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/1120bad531c928642d2ee49942be079a9fb0519b/icons/file_type_pip.svg">
-   <code><img width="15%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg"></code></code>  
-  <br />
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-ar21.svg"></code>
-</p>
-
----
-
-
-<a href="https://github.com/zjayers/github-readme-stats">
-   <img width="60%" alt="Zach's github stats" src="https://github-readme-stats.vercel.app/api?username=obiorbitalstar&show_icons=true&hide_border=true" />
-</a>
-
------
+![](https://img.shields.io/badge/Developer-Node-informational?style=flat&logo=node.jslogoColor=white&color=025800)
+![](https://img.shields.io/badge/Developer-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=f7df1c)
+![](https://img.shields.io/badge/Developer-HTML-informational?style=flat&logo=html5&logoColor=white&color=dc4a27)
+![](https://img.shields.io/badge/Developer-CSS-informational?style=flat&logo=css-wizardry&logoColor=white&color=264bdc)
+![](https://img.shields.io/badge/Developer-Python-informational?style=flat&logo=pyhton-wizardry&logoColor=white&color=004daa)
+![](https://img.shields.io/badge/Developer-Django-informational?style=flat&logo=pyhton-wizardry&logoColor=white&color=004daa)
+![](https://img.shields.io/badge/Developer-React-informational?style=flat&logo=pyhton-wizardry&logoColor=white&color=004daa)
+![](https://img.shields.io/badge/Developer-Android-informational?style=flat&logo=pyhton-wizardry&logoColor=white&color=004daa)
