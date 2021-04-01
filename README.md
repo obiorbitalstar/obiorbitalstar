@@ -1,11 +1,7 @@
-![obiorbitalstar' Stats](https://github-readme-stats.vercel.app/api?username=thamudi&show_icons=true&title_color=00c8ff&text_color=f5f5f5&bg_color=1a1c1d&icon_color=00c8ff&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obiorbitalstar&layout=compact&title_color=00c8ff&text_color=f5f5f5&bg_color=1a1c1d&icon_color=00c8ff&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![gif](https://github.com/SuperSupeng/SuperSupeng/blob/master/about.gif)
 
-![](https://img.shields.io/badge/Developer-Node-informational?style=flat&logo=node.jslogoColor=white&color=025800)
-![](https://img.shields.io/badge/Developer-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=f7df1c)
-![](https://img.shields.io/badge/Developer-HTML-informational?style=flat&logo=html5&logoColor=white&color=dc4a27)
-![](https://img.shields.io/badge/Developer-CSS-informational?style=flat&logo=css-wizardry&logoColor=white&color=264bdc)
-![](https://img.shields.io/badge/Developer-Python-informational?style=flat&logo=pyhton-wizardry&logoColor=white&color=004daa)
-![](https://img.shields.io/badge/Developer-Django-informational?style=flat&logo=pyhton-wizardry&logoColor=white&color=004daa)
-![](https://img.shields.io/badge/Developer-React-informational?style=flat&logo=pyhton-wizardry&logoColor=white&color=004daa)
-![](https://img.shields.io/badge/Developer-Android-informational?style=flat&logo=pyhton-wizardry&logoColor=white&color=004daa)
+何以解忧，唯有暴富。💰
+
+[![Subranium's github stats](https://github-readme-stats.vercel.app/api?username=obiorbitalstar&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obiorbitalstar&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
+-----
