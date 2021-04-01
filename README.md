@@ -1,4 +1,4 @@
-[![Subranium's github stats](https://github-readme-stats.vercel.app/api?username=obiorbitalstar&show_icons=true&theme=merko,include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obiorbitalstar&layout=compact&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Subranium's github stats](https://github-readme-stats.vercel.app/api?username=obiorbitalstar&show_icons=true&theme=merko&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obiorbitalstar&layout=compact&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
